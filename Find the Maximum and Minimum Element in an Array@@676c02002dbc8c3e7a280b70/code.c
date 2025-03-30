@@ -1,5 +1,5 @@
-#include <iostream>  // Include input-output library
-using namespace std;  // Use standard namespace
+// #include <iostream>  // Include input-output library
+// using namespace std;  // Use standard namespace
 
 int main() {  // Main function
     
